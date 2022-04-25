@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: o;
+}
+.central{
+    display: flex;
+    width: 1000px;
+    background-color: white;
+    margin: 0 auto;
+}
+.part1{
+    display: flex;
+    width: 1000px;
+    height: 90px;
+    margin: 0 auto;
+}
+.regis{
+    width: 650px;
+    height: 90px;
+    background: linear-gradient(rgb(225, 0, 0),rgb(73, 6, 6));
+}
+.img1{
+    width: 250px;
+    height: 90px;
+}
+h1{
+    font-size: 25px;
+    text-align: left;
+    position: relative;
+    color: white;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    margin-left: 10px;
+}
+.part2{
+    display: flex;
+    width: 1000px;
+    height: 600px;
+    margin: 0 auto;
+    background-color: white;
+}
+.img2{
+    width: 300px;
+    height: 600px;
+}
+.titulo{
+    width: 700px;
+    height: 600px;
+    margin: 0 auto;
+    background-color: white;
+}
+.box1{
+    width: 400px;
+    height: 100px;
+    margin: 0 auto;
+    margin-top: 150px;
+    background: linear-gradient(rgb(225, 0, 0),rgb(73, 6, 6));
+}
+.txt1{
+    width: 400px;
+    height: 30px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+h3{
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    color: white;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+.txt2{
+    width: 400px;
+    height: 30px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+h4{
+    font-size: 18px;
+    text-align: center;
+    position: relative;
+    color: white;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+.register{
+    width: 400px;
+    height: 250px;
+    margin: 0 auto;
+    background-color: white;
+}
+.DNI{
+    width: 350px;
+    height: 50px;
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color: white;
+}
+.ingDNI{
+    width: 342px;
+    height: 40px;
+    margin: 0 auto;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+.fech{
+    width: 350px;
+    height: 50px;
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color: white;
+}
+.date{
+    width: 345px;
+    height: 40px;
+    margin: 0 auto;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+.bout{
+    width: 360px;
+    height: 50px;
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color: white;
+}
+.consult{
+    width: 365px;
+    height: 50px;
+    border: 1px solid rgb(153, 152, 152);
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 30px;
+    background: linear-gradient(rgb(225, 0, 0),rgb(73, 6, 6));
+    color: white;
+    font-size: 18px;
+}
+h2{
+    font-size: 20px;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-left: 15px;
+}
+.part3{
+    width: 1000px;
+    height: 180px;
+    margin: 0 auto;
+    background: linear-gradient(rgb(225, 0, 0),rgb(73, 6, 6));
+}
+.help{
+    display: flex;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.b{
+    width: 400px;
+    height: 30px;
+    margin: 0 auto;
+}
+.a{
+    width: 100px;
+    height: 30px;
+    margin: 0 auto;
+    margin-left: 30px;
+    margin-right: 10px;
+    color: white;
+}
+.enlaces{
+    display: flex;
+    margin: 0 auto;
+}
+.link{
+    width: 200px;
+    height: 80px;
+    margin: 0 auto;
+    margin-top: 5px;
+}
